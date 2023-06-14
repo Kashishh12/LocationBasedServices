@@ -1,0 +1,175 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.401881481914806,
+          25.15903053833386,
+          0
+        ]
+      },
+      "properties": {
+        "_id": "63a2d42f0e9532f6461e0f9d",
+        "location": "International City France Cluster",
+        "name": "British Home Nursing Services",
+        "rating": 5.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.396787772472976,
+          25.127728053293488,
+          0
+        ]
+      },
+      "properties": {
+        "_id": "63a2d6c20e9532f6461e0f9e",
+        "location": "Cedre Shopping Centre",
+        "name": "Symbiosis Medical Centre",
+        "rating": 3.8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.40816178515071,
+          25.158781660831913,
+          0
+        ]
+      },
+      "properties": {
+        "_id": "63a2d8530e9532f6461e0f9f",
+        "location": "Persia N11 - N4",
+        "name": "Access Clinic Persia",
+        "rating": 3.7
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.387080643840015,
+          25.120876333464967,
+          0
+        ]
+      },
+      "properties": {
+        "_id": "63a2d8a20e9532f6461e0fa0",
+        "location": "Dubai Silicon Oasis",
+        "name": "Fakeeh University Hospital",
+        "rating": 4.5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.43407489804595,
+          25.222415670723837,
+          0
+        ]
+      },
+      "properties": {
+        "_id": "63a2d8e10e9532f6461e0fa1",
+        "location": "Mirdif Mall",
+        "name": "Medcare Medical Centre",
+        "rating": 3.6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.32362798590166,
+          25.15582948361457,
+          0
+        ]
+      },
+      "properties": {
+        "_id": "63a2d9780e9532f6461e0fa2",
+        "location": "Nad Al Sheba",
+        "name": "Nad Al Sheba Health Center",
+        "rating": 4.1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.390213322211615,
+          25.116412239357302,
+          0
+        ]
+      },
+      "properties": {
+        "_id": "63a2d9d30e9532f6461e0fa3",
+        "location": "Palace Towers",
+        "name": "Medicure",
+        "rating": 3.9
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.36733683577258,
+          25.07407132693365,
+          0
+        ]
+      },
+      "properties": {
+        "_id": "63a2da4d0e9532f6461e0fa4",
+        "location": "G05, Villanova Community Mall",
+        "name": "Health Connect Poly Clinic",
+        "rating": 5.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.31821213585722,
+          25.223244548671264,
+          0
+        ]
+      },
+      "properties": {
+        "_id": "63a2db030e9532f6461e0fa5",
+        "location": "Oud Metha Rd - Al Jaddaf",
+        "name": "Latifa Women and Children Hospital",
+        "rating": 3.5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.32409023282233,
+          25.23032620735275,
+          0
+        ]
+      },
+      "properties": {
+        "_id": "63a2db5e0e9532f6461e0fa6",
+        "location": "Umm Hurair 2 - Dubai Healthcare City",
+        "name": "Abuhamour Medical Centre",
+        "rating": 3.6
+      }
+    }
+  ]
+}
