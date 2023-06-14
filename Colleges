@@ -1,0 +1,175 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.410041936866925,
+          25.124720867602193,
+          0
+        ]
+      },
+      "properties": {
+        "_id": "63a1d44596b9974b77084620",
+        "location": "Dubai International Academic City KHDA",
+        "name": "UK College of Business and Computing",
+        "rating": 4.6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.41043299991708,
+          25.125394420031093,
+          0
+        ]
+      },
+      "properties": {
+        "_id": "63a1d64196b9974b77084621",
+        "location": "Dubai International Academic City",
+        "name": "NEST ACADEMY OF MANAGEMENT EDUCATION",
+        "rating": 4.1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.40840339991706,
+          25.113244433793785,
+          0
+        ]
+      },
+      "properties": {
+        "_id": "63a1d68c96b9974b77084622",
+        "location": "Academic City",
+        "name": "Institute of Management & Technology",
+        "rating": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.41115357114361,
+          25.122877962999485,
+          0
+        ]
+      },
+      "properties": {
+        "_id": "63a1d6d696b9974b77084624",
+        "location": "Academic City KHDA",
+        "name": "American University in the Emirates",
+        "rating": 4.5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.42514511777036,
+          25.133371316864448,
+          0
+        ]
+      },
+      "properties": {
+        "_id": "63a1d76796b9974b77084625",
+        "location": "Academic City",
+        "name": "Manipal University",
+        "rating": 3.8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.41016759997927,
+          25.125291262387897,
+          0
+        ]
+      },
+      "properties": {
+        "_id": "63a1d7b396b9974b77084626",
+        "location": "Academic City",
+        "name": "Saint Joseph University",
+        "rating": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.419307046606,
+          25.123494048219413,
+          0
+        ]
+      },
+      "properties": {
+        "_id": "63a1d7ed96b9974b77084627",
+        "location": "Academic City",
+        "name": "Amity University",
+        "rating": 3.7
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.385900464397096,
+          25.13364968852606,
+          0
+        ]
+      },
+      "properties": {
+        "_id": "63a1d82696b9974b77084628",
+        "location": "Dubai Silicon Oasis",
+        "name": "Curtin University",
+        "rating": 4.7
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.313456606159,
+          25.24351241721687,
+          0
+        ]
+      },
+      "properties": {
+        "_id": "63a1d8a596b9974b77084629",
+        "location": "Al Nasr Plaza Oud Metha",
+        "name": "Learners University College",
+        "rating": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.39289908216744,
+          25.11054251739126,
+          0
+        ]
+      },
+      "properties": {
+        "_id": "63a1daec96b9974b7708462a",
+        "location": "Academic City",
+        "name": "HCT MEN COLLEGE",
+        "rating": 4.2
+      }
+    }
+  ]
+}
