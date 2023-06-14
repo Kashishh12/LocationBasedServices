@@ -1,0 +1,175 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.420197476483956,
+          25.13174736846708,
+          0
+        ]
+      },
+      "properties": {
+        "_id": "63a1c92296b9974b77084612",
+        "location": "BITS Pilani",
+        "name": "Allday Minimart",
+        "rating": 4.5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.41861181881261,
+          25.129016541111195,
+          0
+        ]
+      },
+      "properties": {
+        "_id": "63a1cac296b9974b77084614",
+        "location": "Academic City",
+        "name": "Bluemart Fresh Minimart",
+        "rating": 4.7
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.42393828257869,
+          25.126553032783605,
+          0
+        ]
+      },
+      "properties": {
+        "_id": "63a1cb5e96b9974b77084615",
+        "location": "Outsource City",
+        "name": "Greens Supermarket",
+        "rating": 3.8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.42544042675688,
+          25.127054668630244,
+          0
+        ]
+      },
+      "properties": {
+        "_id": "63a1cbcc96b9974b77084616",
+        "location": "Outsource City",
+        "name": "Big Value Supermarket",
+        "rating": 4.1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.40174030235733,
+          25.127869559671453,
+          0
+        ]
+      },
+      "properties": {
+        "_id": "63a1cd3196b9974b77084617",
+        "location": "Dubai Silicon Oasis",
+        "name": "West Zone Fresh Supermarket",
+        "rating": 3.1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.400317239052235,
+          25.124286632173963,
+          0
+        ]
+      },
+      "properties": {
+        "_id": "63a1d06296b9974b77084618",
+        "location": "Dubai Silicon Oasis",
+        "name": "Yas Mini Market",
+        "rating": 3.4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.40649424025008,
+          25.146747387738014,
+          0
+        ]
+      },
+      "properties": {
+        "_id": "63a1d0e796b9974b77084619",
+        "location": "International City",
+        "name": "Obeidat Supermarket",
+        "rating": 4.6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.39108361141428,
+          25.11683580007272,
+          0
+        ]
+      },
+      "properties": {
+        "_id": "63a1d14e96b9974b7708461a",
+        "location": "Dubai Silicon Oasis",
+        "name": "Almaya Supermarket",
+        "rating": 3.8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.40929909792177,
+          25.157252018165256,
+          0
+        ]
+      },
+      "properties": {
+        "_id": "63a1d1ba96b9974b7708461b",
+        "location": "Greece Cluster International City",
+        "name": "Shaklan HyperMarket",
+        "rating": 4.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.39807979792108,
+          25.12175900544821,
+          0
+        ]
+      },
+      "properties": {
+        "_id": "63a1d33396b9974b7708461c",
+        "location": "IT Plaza Dubai Silicon Oasis",
+        "name": "Green Belt",
+        "rating": 3.8
+      }
+    }
+  ]
+}
