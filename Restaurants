@@ -1,0 +1,194 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+	"geometry": {
+        "type": "Point",
+	"coordinates": [
+		55.41906874490777,
+    25.12868104610391,
+	  0
+	]
+	},
+      "properties": {
+        "_id": "63a2dc1c0e9532f6461e0fab",
+        "location": "Academic City",
+        "name": "Big Mouth",
+        "rating": 4.8
+      }
+    },
+
+   
+ {
+      "type": "Feature",
+	"geometry": {
+        "type": "Point",
+	"coordinates": [
+  55.42419581890977,
+	25.126340697509757,
+	0
+	]
+	},
+      "properties": {
+        "_id": "63a2dd0e0e9532f6461e0fb0",
+        "location": "Dubai Outsource Zone",
+        "name": "Al Madina Restaurant",
+        "rating": 3.5
+      }
+    },
+
+
+{
+      "type": "Feature",
+	"geometry": {
+        "type": "Point",
+	"coordinates": [
+	55.42406075422809,
+	25.12596222197758,
+	0
+	]
+	},
+      "properties": {
+        "_id": "63a2dd840e9532f6461e0fb1",
+        "location": "Al Shiba Complex, Dubai Outsource Zone",
+        "name": "Set El Sham Restaurant",
+        "rating": 3.5
+      }
+    },
+
+
+{
+      "type": "Feature",
+	"geometry": {
+        "type": "Point",
+	"coordinates": [
+	55.42524388794708,
+	25.12673379260613,
+	0
+	]
+	},
+      "properties": {
+        "_id": "63a2ddbf0e9532f6461e0fb2",
+        "location": "Dubai Outsource City",
+        "name": "Golden Pak Restaurant",
+        "rating": 4.1
+      }
+    },
+
+
+{
+      "type": "Feature",
+	"geometry": {
+        "type": "Point",
+	"coordinates": [
+	55.41396945122747,
+	25.12313880484863,
+	0
+	]
+	},
+      "properties": {
+        "_id": "63a2df6f0e9532f6461e0fb3",
+        "location": "Academic City",
+        "name": "Swades Vegetarian Restaurant",
+        "rating": 3.8
+      }
+    },
+
+
+{
+      "type": "Feature",
+	"geometry": {
+        "type": "Point",
+	"coordinates": [
+	55.42610873522506,
+	25.12346211651966,
+	0
+	]
+	},
+      "properties": {
+        "_id": "63a2dfa20e9532f6461e0fb4",
+        "location": "Near SIT Tower",
+        "name": "Puranmal",
+        "rating": 4.1
+      }
+    },
+
+
+{
+      "type": "Feature",
+	"geometry": {
+        "type": "Point",
+	"coordinates": [
+	55.41096367812648,
+	25.124632938983183,
+	0
+	]
+	},
+      "properties": {
+        "_id": "63a2dffa0e9532f6461e0fb5",
+        "location": "Academic City",
+        "name": "Alraseef Restaurant",
+        "rating": 4.3
+      }
+    },
+
+
+{
+      "type": "Feature",
+	"geometry": {
+        "type": "Point",
+	"coordinates": [
+	55.40036893835492,
+	25.124146413024917,
+	0
+	]
+	},
+      "properties": {
+        "_id": "63a2e06b0e9532f6461e0fb6",
+        "location": "Dubai Silicon Oasis",
+        "name": "Magic Corn Restaurant",
+        "rating": 3.9
+      }
+    },
+
+
+{
+      "type": "Feature",
+	"geometry": {
+        "type": "Point",
+	"coordinates": [
+	55.3972640569403,
+	25.12762463366978,
+	0
+	]
+	},
+      "properties": {
+        "_id": "63a2e19e0e9532f6461e0fb7",
+        "location": "Dubai Silicon Oasis",
+        "name": "Oregano Restaurants",
+        "rating": 4.0
+      }
+    },
+
+
+
+{
+      "type": "Feature",
+	"geometry": {
+        "type": "Point",
+	"coordinates": [
+	55.380599344221615,
+	25.108786561977652,
+	0
+	]
+	},
+      "properties": {
+        "_id": "63a2e1d70e9532f6461e0fb8",
+        "location": "Behind Al Waha, Dubai Silicon Oasis",
+        "name": "My Falafel",
+        "rating": 3.0
+      }
+    }
+    ]
+}
